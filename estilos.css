@@ -17,8 +17,15 @@ justify-content: center;
 
 .title1{
 display: flex;
-justify-content: flex-start;
+justify-content: center;
+align-items: center;
+
 }
+
+.title1 p{
+    font-size: 10px;
+}
+
 
 .header-feed-title {
     display: flex;
