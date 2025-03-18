@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+
+body{
+background: black;
+display: flex;
+justify-content: center;
+}
+
+.feed{
+    margin: auto;
+    width: 250px;
+    height: 400px;
+    background-color: white;
+}
+
+.title1{
+display: flex;
+justify-content: flex-start;
+}
+
+.header-feed-title {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.post-imagen img {
+    margin: auto;
+	width: 100%;
+	height: 50%;
+}
+
+.post-icons{
+    display: flex;
+    padding: 2px;
+    margin: 5px;
+    justify-content: space-between;
+}
+
+.post-body{
+    margin: 5px;
+
+}
+
